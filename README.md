@@ -12,9 +12,10 @@ REST API สำหรับคำนวณลำดับเลข Fibonacci ต
 
 1. Clone Repo
 git clone https://github.com/Benramajub/Trainee-Back-end.git
+
 cd test-indeed
 
-2. ติดตั้ง dependencies
+3. ติดตั้ง dependencies
 - npm install
   
 3. รันเซิร์ฟเวอร์
