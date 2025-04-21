@@ -11,9 +11,8 @@ REST API สำหรับคำนวณลำดับเลข Fibonacci ต
 🚀 วิธีติดตั้งและรันโปรเจกต์
 
 1. Clone Repo
-git clone https://github.com/Benramajub/Trainee-Back-end.git
-
-cd test-indeed
+- git clone https://github.com/Benramajub/Trainee-Back-end.git
+- cd test-indeed
 
 3. ติดตั้ง dependencies
 - npm install
